@@ -1,2 +1,2 @@
 # Hotel-Booking
-## Used Ms-Excel and Power BI.
+Used Ms-Excel and Power BI.
